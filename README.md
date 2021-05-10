@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=docbrumm&show_icons=true&theme=dark&locale=en" alt="docbrumm" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocBrumm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocBrumm&layout=compacttheme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
