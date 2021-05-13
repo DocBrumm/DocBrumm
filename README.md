@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm DocBrumm</h1>
 <h3 align="center">A german high-school student</h3>
 
-- 🔭 I’m currently working on **my Website**
-
-- 🌱 I’m currently learning **HTML, CSS, NodeJS**
 
 - 📫 How to reach me **[Discord](https://discord.com/users/670958936798658579)**
 
