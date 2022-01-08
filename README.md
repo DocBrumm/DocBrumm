@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [--](link)
 
-- 📫 How to reach me **Discord link**
+- 📫 How to reach me **[Discord](https://discord.com/users/670958936798658579)**
 
 - ⚡ Fun fact **fun fact**
 
